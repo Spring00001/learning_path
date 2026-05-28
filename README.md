@@ -1,6 +1,7 @@
 # **learning\_path**
 
-A resposity to record what I have learnt.
+A resposity to record what I have learnt in C++.
+以下所有编程都是基于VS2022的内容。
 
 
 
